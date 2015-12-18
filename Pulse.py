@@ -34,7 +34,7 @@ fourierInterval = 5
 songTimeScale = 0.7
 decay = 0.9945
 game = True
-audioLocation = "/Users/dkukreja/Desktop/TP_AudioFiles"
+audioLocation = "/Users/dkukreja/Desktop/TP_AudioFiles" #TODO: Change this to the location of your own audio files
 
 
 beatDetect = SimpleBeatDetection()
