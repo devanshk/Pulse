@@ -2,7 +2,7 @@
 ##An AudioVisualizer Game: 15-112 Term Project
 
 Pulse is an audio visualizer and multiplayer game.
-It can analyze audio from the microphone, or parse a song and dynamically calculate beats/beat strength to create its visualization and game. All the processing is done on a different thread to keep the main ui thread more fluid. From a tech standpoint, this is done by using a callback function with PyAudio.
+It can analyze audio from the microphone, or parse a song and dynamically calculate beats/beat strength to create its visualization and game. All the processing is done on a different thread to keep the main ui thread more fluid. From a tech standpoint, this is done by using a callback function with PyAudio. <href = "https://www.youtube.com/watch?v=QLwTMGOUm10> Here's a video demo</href>
 
 #Running Pulse
 To run this, there's a series of modules you'll need to install.
