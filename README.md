@@ -1,4 +1,3 @@
-# Pulse
 ![Pulse_Banner](https://github.com/devanshk/Pulse/blob/master/thin_banner.jpg?raw=true)
 ##An AudioVisualizer Game: 15-112 Term Project
 
