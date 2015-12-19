@@ -9,7 +9,7 @@ It can analyze audio from the microphone, or parse a song and dynamically calcul
 #Running Pulse
 To run this, there's a series of modules you'll need to install.
 
-First is HomeBrew: http://brew.sh
+First install HomeBrew: http://brew.sh
 
 Then you can install PyAudio with "brew install portaudio" and "pip install pyaudio" (more detail at https://people.csail.mit.edu/hubert/pyaudio/)
 
