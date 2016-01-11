@@ -3,6 +3,7 @@
 
 Pulse is an audio visualizer and multiplayer game.
 It can analyze audio from the microphone, or parse a song and dynamically calculate beats/beat strength to create its visualization and game. All the processing is done on a different thread to keep the main dots ui fluid. From a tech standpoint, this is done by using a callback function with PyAudio.
+P.S. Won Second Place Overall
 
 ###[Here's a Video Demo](https://www.youtube.com/watch?v=QLwTMGOUm10)
 
