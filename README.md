@@ -15,7 +15,7 @@ First install HomeBrew: http://brew.sh
 
 Then you can install PyAudio with ```brew install portaudio``` and ```pip install pyaudio``` (more detail at https://people.csail.mit.edu/hubert/pyaudio/)
 
-Then install the SoundCloud module with "pip install soundcloud" (more detail at https://github.com/soundcloud/soundcloud-python)
+Then install the SoundCloud module with ``pip install soundcloud`` (more detail at https://github.com/soundcloud/soundcloud-python)
 
 After that, download FFmpeg with ```brew install ffmpeg```. For installation help, go to https://www.ffmpeg.org. You may need to download additional files to decode mp3s.
 
